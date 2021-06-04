@@ -13,6 +13,7 @@ specialize in web crawler/ web api/ RDBMS design.
 - 💪🏻 Weight Training
 - 🥊 Boxing
 - 🕴🏻 Magic
+- 🤿 Diving
 </details>
 
 <details>
