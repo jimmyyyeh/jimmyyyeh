@@ -21,7 +21,7 @@ specialize in web crawler/ web api/ RDBMS design.
 
 - Chang Gung University (201607~201807)-R.A.
 - Taiwan Data Science Co. (201807~202004)-Data Engineer
-- Feiwalk Technology Inc. (202004~)-Technical Adviser
+- Feiwalk Technology Inc. (202004~202111)-Technical Adviser
 - Golden Crown Technology Inc. (202004~)-Backend Engineer
 </details>
 
