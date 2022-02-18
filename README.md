@@ -1,8 +1,7 @@
 # 👨🏻‍💻 Welcome
 <img src="https://media.giphy.com/media/VJeQrlJLcDsxnknlTP/giphy.gif" width="670"/>
 
-<table><tr><td bgcolor=#EDC4E4><font color="#FAFAFA"><b>I am Jimmy🙋🏻‍♂️, a Python backend engineer, I
-specialize in web crawler/ web api/ RDBMS design.
+<table><tr><td bgcolor=#EDC4E4><font color="#FAFAFA"><b>I am Jimmy🙋🏻‍♂️ , a Python backend engineer.
 </br>
 </b></font></td></tr></table>
 
@@ -21,7 +20,7 @@ specialize in web crawler/ web api/ RDBMS design.
 
 - Chang Gung University (201607~201807)-R.A.
 - Taiwan Data Science Co. (201807~202004)-Data Engineer
-- Feiwalk Technology Inc. (202004~)-Technical Adviser
+- Feiwalk Technology Inc. (202004~202110)-Technical Adviser
 - Golden Crown Technology Inc. (202004~)-Backend Engineer
 </details>
 
