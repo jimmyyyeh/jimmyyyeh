@@ -41,6 +41,9 @@
 <!-- ### 🏆 Github Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord) -->
 
+### 📖 LeetCode Stats
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=jimmyyyeh&theme=wtf)
+
 ### 🎵 Spotify Playing
 [![spotify](https://spotify-readme-orpin.vercel.app/api/spotify)](https://open.spotify.com/user/b36pgtwy205di3pfqr7y6nhfi)
 
