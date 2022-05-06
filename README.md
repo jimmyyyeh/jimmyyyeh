@@ -34,6 +34,13 @@
 - [mongo-operator](https://github.com/jimmyyyeh/mongo-operator)
 </details>
 
+<details>
+    <summary><b>👇🏻 Vue Projects 👇🏻</b></summary>
+
+- [tesla-trip](https://github.com/jimmyyyeh/tesla-trip)
+</details>
+
+
 ---
 ### 📚 Github Stats
 <img height="135px" src="https://github-readme-stats.vercel.app/api?username=jimmyyyeh&count_private=true&show_icons=true" /><img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyyyeh" />
