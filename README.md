@@ -35,9 +35,11 @@
 </details>
 
 <details>
-    <summary><b>👇🏻 Vue Projects 👇🏻</b></summary>
+    <summary><b>👇🏻 Side Projects 👇🏻</b></summary>
 
-- [tesla-trip](https://github.com/jimmyyyeh/tesla-trip)
+- [tesla-trip](http://www.tesla-trip.cc)
+- [one-day](https://youtu.be/nm0DlTElMSs)
+
 </details>
 
 
