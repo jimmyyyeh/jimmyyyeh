@@ -44,6 +44,9 @@
 
 
 ---
+### 📊 Contribution
+![contribution](./profile-3d-contrib/profile-gitblock.svg)
+
 ### 📚 Github Stats
 <img height="135px" src="https://github-readme-stats.vercel.app/api?username=jimmyyyeh&count_private=true&show_icons=true" /><img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyyyeh" />
 
