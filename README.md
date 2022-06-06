@@ -1,9 +1,23 @@
 # 👨🏻‍💻 Welcome
-<img src="https://media.giphy.com/media/VJeQrlJLcDsxnknlTP/giphy.gif" width="670"/>
+```python
+# !/usr/bin/python
+# -*- coding: utf-8 -*-
 
-<table><tr><td bgcolor=#EDC4E4><font color="#FAFAFA"><b>I am Jimmy🙋🏻‍♂️ , a Python backend engineer.
-</br>
-</b></font></td></tr></table>
+
+class Engineer:
+
+    def __init__(self):
+        self.name = 'Jimmy'
+        self.role = 'Backend Engineer'
+        self.programming_language = 'Python'
+
+    def say_hi(self):
+        print(f'Hi! I am {self.name}, a {self.programming_language} {self.role}.')
+
+
+me = Engineer()
+me.say_hi()
+```
 
 <details>
     <summary><b>👇🏻 Personal Interests 👇🏻</b></summary>
