@@ -35,7 +35,7 @@ me.say_hi()
 - Chang Gung University (201607~201807)-R.A.
 - Taiwan Data Science Co. (201807~202004)-Data Engineer
 - Feiwalk Technology Inc. (202004~202110)-Technical Adviser
-- Golden Crown Technology Inc. (202004~)-Tech Lead
+- Golden Crown Technology Inc. (202004~202206)-Tech Lead
 </details>
 
 <details>
