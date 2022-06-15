@@ -45,7 +45,6 @@ me.say_hi()
 - [tw-stock-plugin](https://github.com/jimmyyyeh/tw-stock-plugin)
 - [screen-master](https://github.com/jimmyyyeh/screen-master)
 - [mysql-operator](https://github.com/jimmyyyeh/mysql-operator)
-- [mongo-operator](https://github.com/jimmyyyeh/mongo-operator)
 </details>
 
 <details>
