@@ -17,8 +17,13 @@ class Engineer:
 
 me = Engineer()
 me.say_hi()
-```
 
+```
+<details>
+    <summary><b>👇🏻       Links        👇🏻</b></summary>
+
+- [Delta Magic](https://www.facebook.com/DeltaMagic714)
+</details>
 <details>
     <summary><b>👇🏻 Personal Interests 👇🏻</b></summary>
 
