@@ -62,14 +62,10 @@ me.say_hi()
 
 
 ---
-### 📊 Contribution
-![contribution](./profile-3d-contrib/profile-gitblock.svg)
 
 ### 📚 Github Stats
-<img height="135px" src="https://github-readme-stats.vercel.app/api?username=jimmyyyeh&count_private=true&show_icons=true" /><img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyyyeh" />
-
-<!-- ### 🏆 Github Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord) -->
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=jimmyyyeh&count_private=true&include_all_commits=true&show_icons=true" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyyyeh&layout=compact&langs_count=5&hide_title=true" />
 
 ### 📖 LeetCode Stats
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=jimmyyyeh&theme=wtf)
