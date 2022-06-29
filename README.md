@@ -22,6 +22,7 @@ me.say_hi()
 <details>
     <summary><b>👇🏻       Links        👇🏻</b></summary>
 
+- [Medium](https://medium.com/@jimmyyyeh)
 - [Delta Magic](https://www.facebook.com/DeltaMagic714)
 </details>
 <details>
