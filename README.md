@@ -42,6 +42,7 @@ me.say_hi()
 - Taiwan Data Science Co. (201807~202004)-Data Engineer
 - Feiwalk Technology Inc. (202004~202110)-Technical Adviser
 - Golden Crown Technology Inc. (202004~202206)-Tech Lead
+- Invos Co., Ltd. (202207~)-Senior Backend Engineer
 </details>
 
 <details>
