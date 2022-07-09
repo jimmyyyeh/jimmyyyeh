@@ -56,7 +56,7 @@ me.say_hi()
 <details>
     <summary><b>👇🏻 Side Projects 👇🏻</b></summary>
 
-- [tesla-trip](http://www.tesla-trip.cc)
+- [tesla-trip](https://github.com/jimmyyyeh/tesla-trip)
 - [one-day](https://youtu.be/nm0DlTElMSs)
 
 </details>
