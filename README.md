@@ -43,6 +43,7 @@ me.say_hi()
 - Feiwalk Technology Inc. (202004~202110)-Technical Adviser
 - Golden Crown Technology Inc. (202004~202206)-Tech Lead
 - Invos Co., Ltd. (202207~202210)-Senior Backend Engineer
+- Pinkoi Co., Ltd. (202210)-Backend Engineer
 </details>
 
 <details>
