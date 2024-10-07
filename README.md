@@ -25,15 +25,6 @@ me.say_hi()
 - [Medium](https://medium.com/@jimmyyyeh)
 - [Delta Magic](https://www.facebook.com/DeltaMagic714)
 </details>
-<details>
-    <summary><b>👇🏻 Personal Interests 👇🏻</b></summary>
-
-- ⌨️ Coding
-- 💪🏻 Weight Training
-- 🥊 Boxing
-- 🕴🏻 Magic
-- 🤿 Diving
-</details>
 
 <details>
     <summary><b>👇🏻 Work Experience 👇🏻</b></summary>
