@@ -56,23 +56,10 @@ me.say_hi()
 - [mysql-operator](https://github.com/jimmyyyeh/mysql-operator)
 </details>
 
-<details>
-    <summary><b>👇🏻 Side Projects 👇🏻</b></summary>
-
-- [hi-manta](https://www.himanta.com/#/)
-- [one-day](https://youtu.be/nm0DlTElMSs)
-
-</details>
-
-
----
-
 ### 📚 Github Stats
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=jimmyyyeh&count_private=true&include_all_commits=true&show_icons=true" />
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyyyeh&layout=compact&langs_count=5&hide_title=true" />
 
-### 👶🏻 Vistors
-![counter](https://profile-counter.glitch.me/jimmyyyeh/count.svg)
 
 ### 👍🏻 Support
 <a href="https://www.buymeacoffee.com/jimmyyyeh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jimmyyyeh" /></a>
